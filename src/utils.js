@@ -1,0 +1,1 @@
+export const  getNames = async () => ["ani", "jay","kalu"]
